@@ -8,9 +8,10 @@
     background: #a7ff52;
     border-radius: 50%;
 
-    animation-name: slide-circle;
+    animation: slide-circle 2s infinite;
+    /* animation-name: slide-circle;
     animation-duration: 2s;
-    animation-iteration-count: 3;
+    animation-iteration-count: infinite; */
 }
 
 @keyframes slide-circle {
