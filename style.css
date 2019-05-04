@@ -2,7 +2,8 @@
     box-sizing: border-box;
 }
 
-.circle {
+/****** Animation ******/
+.circleAnimation {
     width: 200px;
     height: 200px;
     background: #a7ff52;
@@ -27,3 +28,5 @@
         transform: translate3d(0px, 0px, 0px);
     }
 }
+
+/****** Transitions ******/
