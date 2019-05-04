@@ -1,3 +1,10 @@
 * {
     box-sizing: border-box;
 }
+
+.circle {
+    width: 200px;
+    height: 200px;
+    background: #a7ff52;
+    border-radius: 50%;
+}
