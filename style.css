@@ -9,7 +9,7 @@
     background: #a7ff52;
     border-radius: 50%;
 
-    animation: slide-circle 2s infinite;
+    animation: slide-circle 2s ease-in-out infinite;
 
     /* animation-name: slide-circle;
     animation-duration: 2s;
